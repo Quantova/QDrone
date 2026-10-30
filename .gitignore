@@ -1,0 +1,6 @@
+node_modules/
+*.qdrone.json
+*.pending.json
+*.key
+.env*
+native/target/
